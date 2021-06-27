@@ -23,6 +23,7 @@ def main():
     # sf.write('test/sp_x2.wav', y_sp_x2, fs)
     # y_ap_x2 = pw.synthesize(f0, sp, ap*2, fs, pw.default_frame_period)
     # sf.write('test/ap_x2.wav', y_ap_x2, fs)
+    print("test")
 
 
 if __name__ == "__main__":
